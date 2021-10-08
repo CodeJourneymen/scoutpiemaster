@@ -1,9 +1,9 @@
 ### Files to download.
 [Home](/)
-&bnsp;|&bnsp;
-[Show-nSell](/shownsell)
-&bnsp;|&bnsp;
-[Door to Door](/doortodoor)
+&nbsp;|&nbsp;
+[Show-n-Sell Sales](/shownsell)
+&nbsp;|&nbsp;
+[Door to Door SAles](/doortodoor)
 
 Need another sales form?
 [Moon Pie Product List and Order Form](/forms/2021_Moon_Pie_Product_List+Order_Form.pdf)

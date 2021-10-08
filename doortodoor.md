@@ -1,8 +1,8 @@
 ### Door to Door sales
 [Home](/)
-&bnsp;|&bnsp;
-[Show-nSell](/shownsell)
-&bnsp;|&bnsp;
+&nbsp;|&nbsp;
+[Show-n-Sell Sales](/shownsell)
+&nbsp;|&nbsp;
 [Forms](/forms)
 
 - Cubs should wear their uniform.

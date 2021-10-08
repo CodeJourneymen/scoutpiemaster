@@ -1,4 +1,9 @@
 ## Instructions for Cub Pack 3116 families for the Moon Pie Fundariser in Signal Mountain TN.
+[Show-n-Sell sales](/shownsell)
+&nbsp;|&nbsp;
+[Door to Door Sales](/doortodoor)
+&nbsp;|&nbsp;
+[Forms](/forms)
 
 ![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png){: .center-image }
 <br/>
