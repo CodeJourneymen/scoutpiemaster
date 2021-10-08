@@ -6,7 +6,7 @@
 ### This is a page to help Cub Scouts troop 3116 from Signal Mountain TN sell their Moon Pies for fundraising.
 <br/>
 
-[Door to Door sales](/doortodoor)
+[Door to Door sales]({{ site.baseurl }}{% link /doortodoor %})
 
 
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg)
