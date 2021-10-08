@@ -21,6 +21,7 @@ If you don't make $475, then the Cub fees will be pro-rated.
 ## For info on door to door sales
 [Door to Door sales](/doortodoor)
 
+![Image of moonpie prices](https://scoutpiemaster.com/images/prices.jpg){: .center-image }
 
 
 ### Contact
