@@ -1,9 +1,6 @@
-## Instructions for Cub Pack 3116 families for the Moon Pie Show-n-Sells in Signal Mountain TN.
+## Instructions for Cub Pack 3116 families for the Moon Pie Fundariser in Signal Mountain TN.
 
 ![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png){: .center-image }
-<br/>
-
-### This is a page to help Cub Scouts troop 3116 from Signal Mountain TN sell their Moon Pies for fundraising.
 <br/>
 
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg){: .center-image }
