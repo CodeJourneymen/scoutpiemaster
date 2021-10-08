@@ -49,7 +49,9 @@ Clover is really easy to use. The card readers will be fully charged when you pi
 # Pickup/Setup
 Come to my house, Lee Walker, 712 Windy way, 404-405-1194.
 
-What you need will all be together in my garage - pick up the correct locations pile.If I'm not there Garage code will have been sent in an email to you. - please also close door with same code after you are done. I should be there most times.
+What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
+<br/>
+I should be there most times.
 
 You will have to pick up : 
 - Moon pies (many boxes)
@@ -57,7 +59,11 @@ You will have to pick up :
 - Selling tray/box for your location (contains cash and card reader & more instructions)
 - 2 chairs
 
-
+# Dropoff
+bring everything to my house, Lee Walker, 712 Windy way, 404-405-1194.
+If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
+<br/>
+I should be there most times.
 
 
 ### Contact
