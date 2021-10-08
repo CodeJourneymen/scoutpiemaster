@@ -9,8 +9,8 @@ We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+Gene
 
 ### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
 
-It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.
-
+It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.<br/>
+If not all slots are filled on a day we'd prefer the last slot to be empty, so the stall doesn't have to be broken down and re-put up in a single day.<br/>
 Slots are 2 hours long. 
 - 10am to Noon
 - Noon to 2pm
@@ -77,4 +77,4 @@ You will have to drop off:
 
 [contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
-[Call Lee](tel:4044051194)
+[Call PieMaster Lee](tel:4044051194) for help.
