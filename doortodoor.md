@@ -1,5 +1,8 @@
 ### Door to Door sales
 
+[Home](/)
+[Show-nSell](/shownsell)
+
 - Cubs should wear their uniform.
 - Take the payment right away.
 - Write the clients name,address,& order down on your Cubs selling sheet. 
