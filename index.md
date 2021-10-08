@@ -26,17 +26,17 @@ Each day has a seperate SignupGenius - both locations on same signup for each da
 
 All Signup Genius links for October.
 - Signup for First Weekend
-  -[Sat Oct 9th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-13116)
-  -[Sun Oct 10th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-23116)
+  - [Sat Oct 9th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-13116)
+  - [Sun Oct 10th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-23116)
 - Signup for Second Weekend
-  -[Sat Oct 16th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-33116)
-  -[Sun Oct 17th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-43116)
+  - [Sat Oct 16th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-33116)
+  - [Sun Oct 17th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-43116)
 - Signup for Third Weekend
-  -[Sat Oct 23rd](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-53116)
-  -[Sun Oct 34th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
+  - [Sat Oct 23rd](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-53116)
+  - [Sun Oct 34th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
 - Signup for Fourth Weekend
-  -[Sat Oct 30th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-73116)
-  -[Sun Oct 31st](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-83116)
+  - [Sat Oct 30th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-73116)
+  - [Sun Oct 31st](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-83116)
 
 
 
