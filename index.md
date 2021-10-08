@@ -5,4 +5,5 @@ This is a opage to help Cub Scouts troop 3116 from Signal Mountain TN sell their
 
 ### Contact
 
-[contact the PieMaster](mailto:info@codejourneymen.com.com) for more details.
+[contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
+[Call Lee](phone:4040451194)
