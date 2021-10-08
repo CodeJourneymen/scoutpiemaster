@@ -16,7 +16,7 @@ We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+Gene
 ## There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
 <br/>
 
-It's possible for 2 people to be at the same time - and share a slot, but please fill out the day before doubling up.
+It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.
 <br/>
 Slots are 2 hours long. 
 - 10-noon
