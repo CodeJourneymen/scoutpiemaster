@@ -5,6 +5,11 @@
 
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg){: .center-image }
 
+## Sales goal 
+Sales goal per Cub Scout is $475.<br/>
+If you make the gail of $475, there are no fees for your Cub in 2022.<br/>
+If you don't make $475, then the Cub fees will be pro-rated.
+
 ## For info on Show-n-Sell sales
 [Show-n-Sell](/shownsell)
 
@@ -14,7 +19,6 @@
 
 
 ### Contact
-
 [Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
 [Call PieMaster Lee](tel:4044051194) for help.
