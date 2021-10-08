@@ -5,3 +5,9 @@ $font-size-base:          26px !default;
 
 @import "{{ site.theme }}";
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
