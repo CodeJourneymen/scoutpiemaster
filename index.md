@@ -1,6 +1,6 @@
 ## Instructions for Cub Pack 3116 families for the Moon Pie Show-n-Sells in Signal Mountain TN.
 
-![Boy Scouts of Aemerica logo](https://scoutpiemaster.com/images/bsa-logo-small.png)
+![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png)
 <br/>
 
 ### This is a page to help Cub Scouts troop 3116 from Signal Mountain TN sell their Moon Pies for fundraising.
@@ -31,7 +31,7 @@ All Signup Genius links for October.
   - [Sun Oct 17th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-43116)
 - Signup for Third Weekend
   - [Sat Oct 23rd](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-53116)
-  - [Sun Oct 34th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
+  - [Sun Oct 24th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
 - Signup for Fourth Weekend
   - [Sat Oct 30th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-73116)
   - [Sun Oct 31st](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-83116)
@@ -39,6 +39,8 @@ All Signup Genius links for October.
 
 # Selling:
 You will need to download the "Clover Go G1 - Point Of Sale" from android or apple app store onto your phone. (NOT the Clover G2 dashboard)
+- [Android](https://play.google.com/store/apps/details?id=com.firstdata.clovergo&hl=en_US&gl=US)
+- [Apple](https://apps.apple.com/us/app/clover-go-g1-point-of-sale/id999050522)
 
 We will supply login/password for each location. Each location has it's own username/password - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
