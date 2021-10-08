@@ -8,7 +8,7 @@
 ![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png){: .center-image }
 <br/>
 
-![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg){: .center-image }
+![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie-small.png){: .center-image }
 
 ## Sales goal 
 Sales goal per Cub Scout is $475.<br/>
