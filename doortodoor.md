@@ -11,7 +11,10 @@
 - After each session you can text me a photo of the sheet and your current orders.
 - Come to my house to pick up the order. Payment is due at that moment.
 - Checks are acceptable made out to "Pack 3116"
-- You can accept Venmo to your personal account (as a way tof taking credit cards) then give me cash, check, or Venmo.
+- You can accept Venmo to your personal account (as a way of taking credit cards) then settle up via
+    - Cash
+    - Check (Payable to "Pack 3116")
+    - Venmo
 
 ### Door to Door wagon sales
 
