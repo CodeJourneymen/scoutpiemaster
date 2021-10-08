@@ -8,9 +8,12 @@
 
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg)
 
-[Door to Door sales]({{ site.baseurl }}{% link /doortodoor.md %})
+## For info on Show-n-Sell sales
+[Show-n-Sell]({{ site.baseurl }}{% link /shownsell %})
 
-[Show-n-Sell]({{ site.baseurl }}{% link /shownsell.md %})
+## For info on door to door sales
+[Door to Door sales]({{ site.baseurl }}{% link /doortodoor %})
+
 
 
 ### Contact
