@@ -9,10 +9,10 @@
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg){: .center-image }
 
 ## For info on Show-n-Sell sales
-[Show-n-Sell]({{ site.baseurl }}{% link /shownsell %})
+Show-n-Sell]{{ site.baseurl }}{% link /shownsell %})
 
 ## For info on door to door sales
-[Door to Door sales]({{ site.baseurl }}{% link /doortodoor %})
+Door to Door sales]{{ site.baseurl }}{% link /doortodoor %})
 
 
 
