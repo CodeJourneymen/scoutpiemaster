@@ -24,6 +24,6 @@ If you would like to pull a waggon with actual Moon Pie product in it to sell im
 
 ### Contact
 
-[contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
+[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
-[Call Lee](tel:4044051194)
+[Call PieMaster Lee](tel:4044051194) for help.

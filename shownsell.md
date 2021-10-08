@@ -75,6 +75,6 @@ You will have to drop off:
 
 ### Contact
 
-[contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
+[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
 [Call PieMaster Lee](tel:4044051194) for help.
