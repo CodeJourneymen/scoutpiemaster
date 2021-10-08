@@ -42,6 +42,11 @@ All Signup Genius links for October.
   - [Sun Oct 31st](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-83116)
 
 
+#Selling:
+You will need to download the "Clover Go G1 - Point Of Sale" from android or apple app store onto your phone. (NOT the Clover G2 dashboard)
+We will supply login/password for each location. Each location has it's own username/password - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
+There will be a tally sheet for each type of box sold, we just want to keep track of what we sold on paper too. It will be in the box.
+Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not call me Lee 404-405-1194 - they are charged via USB.
 
 
 ### Contact

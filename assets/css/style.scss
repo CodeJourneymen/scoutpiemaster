@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 $font-size-base:          26px !default; 
-p { font-size: 26px !default; }
+
+@import "{{ site.theme }}";
 
