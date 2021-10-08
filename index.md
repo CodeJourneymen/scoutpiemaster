@@ -44,11 +44,24 @@ We will supply login/password for each location. Each location has it's own user
 
 There will be a tally sheet for each type of box sold, we just want to keep track of what we sold on paper too. It will be in the box.
 
-Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not call me Lee 404-405-1194 - they are charged via USB.
+Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Lee](tel:4044051194) - they are charged via USB.
+
+# Pickup/Setup
+Come to my house, Lee Walker, 712 Windy way, 404-405-1194.
+
+What you need will all be together in my garage - pick up the correct locations pile.If I'm not there Garage code will have been sent in an email to you. - please also close door with same code after you are done. I should be there most times.
+
+You will have to pick up : 
+- Moon pies (many boxes)
+- Table 
+- Selling tray/box for your location (contains cash and card reader & more instructions)
+- 2 chairs
+
+
 
 
 ### Contact
 
 [contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
-[Call Lee](tel:4040451194)
+[Call Lee](tel:4044051194)
