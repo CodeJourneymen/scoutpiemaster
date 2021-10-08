@@ -73,7 +73,6 @@ You will have to drop off:
 - 2 Signs
 
 
-## 
 ### Contact
 
 [contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
