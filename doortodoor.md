@@ -1,16 +1,10 @@
-![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png)
-<br/>
-
-### This is a page to help Cub Scouts troop 3116 from Signal Mountain TN sell their Moon Pies for fundraising.
-<br/>
-
 ### Door to Door sales
 
 - Cubs should wear their uniform.
 - Take the payment right away.
 - Write the clients name,address,& order down on your Cubs selling sheet. 
-    -- This is how we track their sales. 
-    -- DONT LOSE THE SHEET.
+    - This is how we track their sales. 
+    - DONT LOSE THE SHEET.
 - After each session you can text me a photo of the sheet and your current orders.
 - Come to my house to pick up the order. Payment is due at that moment.
 - Checks are acceptable made out to "Pack 3116"
