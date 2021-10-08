@@ -8,7 +8,6 @@
 
 ![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie.jpg)
 
-
 We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Fantasy Mountain Board Gaming](https://www.google.com/maps/place/Fantasy+Mountain+Board+Gaming/@35.1393519,-85.3317003,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f581bcb3f089:0x913866881cfc599b!8m2!3d35.1393519!4d-85.3295116) (Next to Dominos)
 
 ### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
@@ -52,4 +51,4 @@ Clover is really easy to use. The card readers will be fully charged when you pi
 
 [contact the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
 <br/>
-[Call Lee](phone:+14040451194)
+[Call Lee](tel:4040451194)
