@@ -60,12 +60,20 @@ You will have to pick up :
 - Table 
 - Selling tray/box for your location (contains cash and card reader & more instructions)
 - 2 chairs
+- 2 Signs
 
 # Dropoff
 Bring everything to my house, Lee Walker, 712 Windy way, 404-405-1194.
 If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
 <br/>
 I should be there most times.
+
+You will have to drop off: 
+- Moon pies (whatever is left)
+- Table 
+- Selling tray/box for your location (contains cash and card reader)
+- 2 chairs
+- 2 Signs
 
 
 ### Contact
