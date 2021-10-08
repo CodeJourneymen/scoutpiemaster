@@ -18,10 +18,10 @@ We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+Gene
 It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.
 <br/>
 Slots are 2 hours long. 
-- 10-noon
-- noon-2pm
-- 2pm-4pm
-- 4pm-6pm
+- 10am to Noon
+- Noon to 2pm
+- 2pm to 4pm
+- 4pm to 6pm
 
 <br/>
 ### Each day has a seperate SignupGenius - both locations on same signup for each day.
