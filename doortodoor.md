@@ -28,8 +28,3 @@ permalink: /doortodoor/
 
 If you would like to pull a waggon with actual Moon Pie product in it to sell immediately. Give me a call (Lee 404-405-1194) and we can arragne that.
 
-### Contact
-
-[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
-<br/>
-[Call PieMaster Lee](tel:4044051194) for help.

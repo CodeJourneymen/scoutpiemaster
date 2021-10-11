@@ -23,9 +23,3 @@ If you don't make $475, then the Cub Scout fees will be pro-rated.
 [Door to Door sales](/doortodoor)
 
 ![Image of moonpie prices](https://scoutpiemaster.com/images/prices.jpg){: .center-image }
-
-
-### Contact
-[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
-<br/>
-[Call PieMaster Lee](tel:4044051194) for help.

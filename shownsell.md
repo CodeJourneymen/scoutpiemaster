@@ -74,8 +74,3 @@ You will have to drop off:
 - 2 Signs
 
 
-### Contact
-
-[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
-<br/>
-[Call PieMaster Lee](tel:4044051194) for help.

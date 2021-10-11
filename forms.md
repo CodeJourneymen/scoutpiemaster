@@ -12,8 +12,3 @@ Need another sales form?
 Need the prize information?
 [Moon Pie prize form](/files/2021_Moon_Pie_Prize_Form.pdf)
 
-### Contact
-
-[Email the PieMaster](mailto:lee@codejourneymen.com.com) for more details.
-<br/>
-[Call PieMaster Lee](tel:4044051194) for help.
