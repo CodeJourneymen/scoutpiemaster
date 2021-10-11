@@ -1,0 +1,7 @@
+install jekyll
+and bundle
+and webrick
+
+bundle install
+bundle exec jekyll serve
+
