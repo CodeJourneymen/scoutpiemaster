@@ -5,11 +5,6 @@ permalink: /forms/
 ---
 
 ## Files to download.
-[Home](/)
-&nbsp;|&nbsp;
-[Show-n-Sell Sales](/shownsell)
-&nbsp;|&nbsp;
-[Door to Door Sales](/doortodoor)
 
 Need another sales form?
 [Moon Pie Product List and Order Form](/files/2021_Moon_Pie_Product_List+Order_Form.pdf)
