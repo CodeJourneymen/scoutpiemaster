@@ -1,3 +1,9 @@
+---
+# Comment needed?
+
+layout: home
+---
+
 ## Instructions for Cub Pack 3116 families for the Moon Pie Fundariser in Signal Mountain TN.
 [Show-n-Sell sales](/shownsell)
 &nbsp;|&nbsp;

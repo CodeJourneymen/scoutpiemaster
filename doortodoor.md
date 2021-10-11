@@ -1,3 +1,9 @@
+---
+layout: home
+title: Door to door sales
+permalink: /doortodoor/
+---
+
 ## Door to Door sales
 [Home](/)
 &nbsp;|&nbsp;

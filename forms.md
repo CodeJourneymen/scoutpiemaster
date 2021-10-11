@@ -1,3 +1,9 @@
+---
+layout: home
+title: Forms
+permalink: /forms/
+---
+
 ## Files to download.
 [Home](/)
 &nbsp;|&nbsp;

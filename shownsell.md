@@ -1,3 +1,9 @@
+---
+layout: home
+title: Show-n-Sell
+permalink: /shownsell/
+---
+
 ## Show-n-Sell - 2 locations
 [Home](/)
 &nbsp;|&nbsp;
