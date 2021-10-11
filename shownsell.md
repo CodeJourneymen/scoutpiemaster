@@ -21,8 +21,8 @@ Slots are 2 hours long.
 
 All Signup Genius links for October.
 - Signup for First Weekend
-    - [Sat Oct 9th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-13116)
-    - [Sun Oct 10th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-23116)
+    - [Sat Oct 9th](#) Finished
+    - [Sun Oct 10th](#) Finished
 - Signup for Second Weekend
   - [Sat Oct 16th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-33116)
   - [Sun Oct 17th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-43116)
