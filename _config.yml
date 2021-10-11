@@ -52,3 +52,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# order menu items (https://github.com/jekyll/minima#customize-navigation-links)
+header_pages:
+  - shownsell.md
+  - doortodoor.md
+  - forms.md
