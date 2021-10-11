@@ -21,7 +21,7 @@
 title: Scout Pie Master
 email: lee@codejourneymen.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Fund raising for Cub Scout pack 3116 Signal Mountain.
+  Fund raising for Cub Scout pack 3116 Signal Mountain
   by selling Moon Pies. You know you want some!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +32,7 @@ github_username:  CodeJourneymen
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
