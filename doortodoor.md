@@ -5,11 +5,10 @@ permalink: /doortodoor/
 ---
 
 ## Door to Door sales
-[Home](/)
-&nbsp;|&nbsp;
-[Show-n-Sell Sales](/shownsell)
-&nbsp;|&nbsp;
-[Forms](/forms)
+
+We are sold out of Pumpkin & Mint Chocolate.<br/>
+I'll see about getting more. Watch this space.
+{: .notice--success }
 
 - Cubs should wear their uniform.
 - Take the payment right away.

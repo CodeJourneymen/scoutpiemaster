@@ -6,6 +6,10 @@ permalink: /forms/
 
 ## Files to download.
 
+We are sold out of Pumpkin & Mint Chocolate.<br/>
+I'll see about getting more. Watch this space.
+{: .notice--success }
+
 Need another sales form?
 [Moon Pie Product List and Order Form](/files/2021_Moon_Pie_Product_List+Order_Form.pdf)
 
