@@ -4,7 +4,7 @@ title: Show-n-Sell
 permalink: /shownsell/
 ---
 
-## Show-n-Sell - 2 locations
+## 2 locations
 
 We are sold out of Pumpkin & Mint Chocolate.<br/>
 I'll see about getting more. Watch this space.

@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Door to door sales
+title: Door to Door sales
 permalink: /doortodoor/
 ---
-
-## Door to Door sales
 
 We are sold out of Pumpkin & Mint Chocolate.<br/>
 I'll see about getting more. Watch this space.
