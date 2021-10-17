@@ -30,7 +30,7 @@ All Signup Genius links for October.
     - <s>Sun Oct 10th</s>
 - Signup for Second Weekend
   - <s>Sat Oct 16th</s>
-  - [Sun Oct 17th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-43116)
+  - <s>Sun Oct 17th</s>
 - Signup for Third Weekend
   - [Sat Oct 23rd](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-53116)
   - [Sun Oct 24th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
