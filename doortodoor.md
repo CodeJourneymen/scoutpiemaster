@@ -4,7 +4,8 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-We are sold out of Pumpkin & Mint Chocolate.<br/>
+We are sold out of Pumpkin, Vanilla & Mint Chocolate. Very Few Banana left.<br/>
+Lots of Chocolate left.<br/>
 I'll see about getting more. Watch this space.
 {: .notice--success }
 

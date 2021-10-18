@@ -16,7 +16,8 @@ Sales goal per Cub Scout is $475.<br/>
 If you make the goal of $475, there are no fees for your Cub Scout in 2022.<br/>
 If you don't make $475, then the Cub Scout fees will be pro-rated.
 
-We are sold out of Pumpkin & Mint Chocolate.<br/>
+We are sold out of Pumpkin, Vanilla & Mint Chocolate. Very Few Banana left.<br/>
+Lots of Chocolate left.<br/>
 I'll see about getting more. Watch this space.
 {: .notice--success }
 
