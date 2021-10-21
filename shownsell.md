@@ -33,8 +33,8 @@ All Signup Genius links for October.
   - <s>Sat Oct 16th</s>
   - <s>Sun Oct 17th</s>
 - Signup for Third Weekend
-  - [Sat Oct 23rd](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-53116)
-  - [Sun Oct 24th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-63116)
+  - <s>Sat Oct 23rd</s> Cancelled because of lack of product - moon pies WILL be available for the fourth weekend.
+  - <s>Sun Oct 24th</s> Cancelled because of lack of product - moon pies WILL be available for the fourth weekend.
 - Signup for Fourth Weekend
   - [Sat Oct 30th](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-73116)
   - [Sun Oct 31st](https://www.signupgenius.com/go/60B0B4FA9AF29A5FD0-83116)
