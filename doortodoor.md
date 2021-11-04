@@ -4,8 +4,8 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-New moon pie delivery is today.<br/>
-All flavors are back in stock.
+The fundraiser is over for 2021<br/>
+We'll be back in Oct 2022
 {: .notice--success }
 
 - Cubs should wear their uniform.

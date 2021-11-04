@@ -5,3 +5,7 @@ and webrick
 bundle install
 bundle exec jekyll serve
 
+To add to the main menu edit _config.yml
+
+
+table-styles.css is dropped from an export from google docs. But including it breaks the site. It is unused and I should probably just delete it.
