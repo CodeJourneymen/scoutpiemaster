@@ -6,10 +6,10 @@ layout: home
 
 ## Instructions for Cub Pack 3116 families for the Moon Pie Fundariser in Signal Mountain TN.
 
-![Boy Scouts of America logo](https://scoutpiemaster.com/images/bsa-logo-small.png){: .center-image }
+![Boy Scouts of America logo](/images/bsa-logo-small.png){: .center-image }
 <br/>
 
-![Image of moonpie](https://scoutpiemaster.com/images/choc-moon-pie-small.png){: .center-image }
+![Image of moonpie](/images/choc-moon-pie-small.png){: .center-image }
 
 ## Sales goal 
 Sales goal per Cub Scout is $475.<br/>

@@ -9,7 +9,7 @@ The fundraiser is about to start for 2022<br/>
 
 - Cubs should wear their uniform.
 - Take the payment right away.
-- Write the clients name,address,& order down on your Cubs selling sheet. 
+- Write the clients name, address, & order down on your Cubs selling sheet. 
     - This is how we track their sales. 
     - DONT LOSE THE SHEET.
 - After each session you can text me a photo of the sheet and your current orders.
