@@ -4,8 +4,7 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-The fundraiser is over for 2021<br/>
-We'll be back in Oct 2022
+The fundraiser is about to start for 2022<br/>
 {: .notice--success }
 
 - Cubs should wear their uniform.
