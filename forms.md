@@ -6,8 +6,6 @@ permalink: /forms/
 
 ## Files to download.
 
-{: .notice--success }
-
 Need another sales form?
 [Moon Pie Product List and Order Form](/files/2022_MoonPie_Scout_Order_Form.pdf)
 
