@@ -25,17 +25,25 @@ Slots are 2 hours long.
 
 All Signup Genius links for October/November 2022.
 - Signup for First Weekend
-  - [Sat Oct 15th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-3116)
-  - <s>Sun Oct 16th</s>
+  - Dollar General [Sat Oct 15th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-3116)
+  - Pruets [Sat Oct 15th](https://www.signupgenius.com/go/5080c4bafaa29a2fa7-31162)
+  - Dollar General [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31164)
+  - Pruets [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31163)
 - Signup for Second Weekend
-  - <s>Sat Oct 22th</s>
-  - <s>Sun Oct 23rd</s>
+  - Dollar General [Sat Oct 22th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31165)
+  - Pruets [Sat Oct 22th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31166)
+  - Dollar General [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31167)
+  - Pruets [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31168)
 - Signup for Third Weekend
-  - <s>Sat Oct 29th</s>
-  - <s>Sun Oct 30th</s>
+  - Dollar General [Sat Oct 29th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31169)
+  - Pruets [Sat Oct 29th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311610)
+  - Dollar General [Sun Oct 30th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311611)
+  - Pruets [Sun Oct 30th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311612)
 - Signup for Fourth Weekend
-  - <s>Sat Nov 5th</s>
-  - <s>Sun Nov 6th</s>
+  - Dollar General [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311613)
+  - Pruets [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311614)
+  - Dollar General [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311615)
+  - Pruets [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31161)
 
 
 
