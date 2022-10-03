@@ -29,5 +29,7 @@ The fundraiser is about to start for 2022 - Sat October 15th will be the first [
 
 ## Prizes your Cub can earn
 
-![Image of moonpie prizes](/files/2022_MoonPie_Prize_Sheet.pdf){: .center-image }
+![Image1 of moonpie prizes](/images/2022-prizes1.png){: .center-image }
+<br/>
+![Image2 of moonpie prizes](/images/2022-prizes2.png){: .center-image }
 
