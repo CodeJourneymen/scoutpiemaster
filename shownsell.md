@@ -25,7 +25,7 @@ Slots are 2 hours long.
 
 All Signup Genius links for October/November 2022.
 - Signup for First Weekend
-  - <s>Sat Oct 15th</s>
+  - [Sat Oct 15th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-3116)
   - <s>Sun Oct 16th</s>
 - Signup for Second Weekend
   - <s>Sat Oct 22th</s>
