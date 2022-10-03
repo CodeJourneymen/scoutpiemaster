@@ -4,16 +4,17 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-The fundraiser is about to start for 2022<br/>
+The fundraiser is about to start for 2022. You can start selling as soon as you get your form.<br/>
+You should take the money and the address iof the buyer, then we will fullfil the order later.
 {: .notice--success }
 
 - Cubs should wear their uniform.
-- Take the payment right away.
+- <b>Take the payment right away.</b> <---- <b>THIS</b>
 - Write the clients name, address, & order down on your Cubs selling sheet. 
     - This is how we track their sales. 
     - DONT LOSE THE SHEET.
 - After each session you can text me a photo of the sheet and your current orders.
-- Come to my house to pick up the order. Payment is due at that moment.
+- Come to my house to pick up the order. Payment is due to me at the moment you pick up your Moon Pies.
 - Checks are acceptable made out to "Pack 3116"
 - You can accept Venmo to your personal account (as a way of taking credit cards) then settle up via
     - Cash
