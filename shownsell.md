@@ -21,7 +21,7 @@ Slots are 2 hours long.
 - 2pm to 4pm
 - 4pm to 6pm
 
-### Each day has a seperate SignupGenius - both locations on same signup for each day.
+### Each day and location has a seperate SignupGenius.
 
 All Signup Genius links for October/November 2022.
 - Signup for First Weekend
@@ -84,5 +84,6 @@ You will have to drop off:
 - Selling tray/box for your location (contains cash and card reader)
 - 2 chairs
 - Signs
+- Cash/Sales for that whole day.
 
 
