@@ -25,4 +25,9 @@ The fundraiser is about to start for 2022 - Sat October 15th will be the first S
 ## For info on Door to Door Sales
 [Door to Door sales](/doortodoor)
 
-![Image of moonpie prices](https://scoutpiemaster.com/images/MoonPieChart2022.png){: .center-image }
+![Image of moonpie prices](/images/MoonPieChart2022.png){: .center-image }
+
+## Prizes your Cub can earn
+
+![Image of moonpie prizes](/files/2022_MoonPie_Prize_Sheet.pdf){: .center-image }
+
