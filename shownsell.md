@@ -30,8 +30,8 @@ All Signup Genius links for October/November 2022.
   - Dollar General [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31164)
   - Pruets [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31163)
 - Signup for Second Weekend
-  - Dollar General [Sat Oct 22th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31165)
-  - Pruets [Sat Oct 22th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31166)
+  - Dollar General [Sat Oct 22nd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31165)
+  - Pruets [Sat Oct 22nd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31166)
   - Dollar General [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31167)
   - Pruets [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31168)
 - Signup for Third Weekend
