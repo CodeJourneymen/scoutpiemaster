@@ -5,7 +5,7 @@ permalink: /doortodoor/
 ---
 
 The fundraiser is about to start for 2022. You can start selling as soon as you get your form.<br/>
-You should take the money and the address iof the buyer, then we will fullfil the order later.
+You should take the money and the address of the buyer, then we will fullfil the order later.
 {: .notice--success }
 
 - Cubs should wear their uniform.
