@@ -6,10 +6,10 @@ permalink: /shownsell/
 
 ## 2 locations
 
-The fundraiser is abut to start for 2022<br/>
+The fundraiser  will for 2022 on October 15th<br/>
 {: .notice--success }
 
-We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Fantasy Mountain Board Gaming](https://www.google.com/maps/place/Fantasy+Mountain+Board+Gaming/@35.1393519,-85.3317003,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f581bcb3f089:0x913866881cfc599b!8m2!3d35.1393519!4d-85.3295116) (Next to Dominos)
+We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruets Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
 
 ### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
 
@@ -23,19 +23,20 @@ Slots are 2 hours long.
 
 ### Each day has a seperate SignupGenius - both locations on same signup for each day.
 
-All Signup Genius links for October.
+All Signup Genius links for October/November 2022.
 - Signup for First Weekend
-    - <s>Sat Oct 9th</s>
-    - <s>Sun Oct 10th</s>
+  - <s>Sat Oct 15th</s>
+  - <s>Sun Oct 16th</s>
 - Signup for Second Weekend
-  - <s>Sat Oct 16th</s>
-  - <s>Sun Oct 17th</s>
+  - <s>Sat Oct 22th</s>
+  - <s>Sun Oct 23rd</s>
 - Signup for Third Weekend
-  - <s>Sat Oct 23rd</s> Cancelled because of lack of product - moon pies WILL be available for the fourth weekend.
-  - <s>Sun Oct 24th</s> Cancelled because of lack of product - moon pies WILL be available for the fourth weekend.
+  - <s>Sat Oct 29th</s>
+  - <s>Sun Oct 30th</s>
 - Signup for Fourth Weekend
-  - <s>Sat Oct 30th</s>
-  - <s>Sun Oct 31st</s>
+  - <s>Sat Nov 5th</s>
+  - <s>Sun Nov 6th</s>
+
 
 
 # Selling:
@@ -61,7 +62,7 @@ You will have to pick up :
 - Table 
 - Selling tray/box for your location (contains cash and card reader & more instructions)
 - 2 chairs
-- 2 Signs
+- Signs
 
 # Dropoff
 Bring everything to my house, Lee Walker, 712 Windy way, 404-405-1194.
@@ -74,6 +75,6 @@ You will have to drop off:
 - Table 
 - Selling tray/box for your location (contains cash and card reader)
 - 2 chairs
-- 2 Signs
+- Signs
 
 
