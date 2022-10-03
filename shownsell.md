@@ -6,7 +6,7 @@ permalink: /shownsell/
 
 ## 2 locations
 
-The fundraiser  will for 2022 on October 15th<br/>
+The fundraiser  will for 2022 start on Sat October 15th<br/>
 {: .notice--success }
 
 We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruets Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
