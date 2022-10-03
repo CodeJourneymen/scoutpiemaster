@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Cub Sales Totals
-permalink: /totals/
+title: Cub Sales Totals 2021
+permalink: /totals2021/
 ---
 
 The fundraiser is over for 2021<br/>
