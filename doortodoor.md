@@ -9,8 +9,8 @@ You should take the money and the address of the buyer, then we will fullfil the
 {: .notice--success }
 
 
-These order sheets must be turned in on Tuesday October 25th.
-We will then order more pies to fullfill these orders.
+These order sheets must be turned in on Tuesday October 25th.<br/>
+We will then order more pies to fullfill these orders.<br/>
 Pies will be available to deliver on the 5th November onwards.
 {: .notice--success }
 
