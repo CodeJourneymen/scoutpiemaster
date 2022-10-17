@@ -9,7 +9,7 @@ permalink: /shownsell/
 The fundraiser  will for 2022 start on Sat October 15th<br/>
 {: .notice--success }
 
-We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruets Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
+We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruetts Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
 
 ### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
 
@@ -25,25 +25,25 @@ Slots are 2 hours long.
 
 All Signup Genius links for October/November 2022.
 - Signup for First Weekend
-  - Dollar General [Sat Oct 15th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-3116)
-  - Pruets [Sat Oct 15th](https://www.signupgenius.com/go/5080c4bafaa29a2fa7-31162)
-  - Dollar General [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31164)
-  - Pruets [Sun Oct 16th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31163)
+  - <s>Dollar General Sat Oct 15th</s>
+  - <s>Pruets Sat Oct 15th</s>
+  - <s>Dollar General Sun Oct 16th</s>
+  - <s>Pruetts Sun Oct 16th</s>
 - Signup for Second Weekend
   - Dollar General [Sat Oct 22nd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31165)
-  - Pruets [Sat Oct 22nd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31166)
+  - Pruetts [Sat Oct 22nd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31166)
   - Dollar General [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31167)
-  - Pruets [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31168)
+  - Pruetts [Sun Oct 23rd](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31168)
 - Signup for Third Weekend
   - Dollar General [Sat Oct 29th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31169)
-  - Pruets [Sat Oct 29th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311610)
+  - Pruetts [Sat Oct 29th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311610)
   - Dollar General [Sun Oct 30th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311611)
-  - Pruets [Sun Oct 30th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311612)
+  - Pruetts [Sun Oct 30th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311612)
 - Signup for Fourth Weekend
   - Dollar General [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311613)
-  - Pruets [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311614)
+  - Pruetts [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311614)
   - Dollar General [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311615)
-  - Pruets [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31161)
+  - Pruetts [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31161)
 
 
 
