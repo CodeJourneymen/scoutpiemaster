@@ -10,10 +10,10 @@ We'll be back in Oct 2022
 
 What every Cub sold (Sales total ordered)
 
-{%- include cubtotals.html -%}
+{%- include cubtotals2021.html -%}
 
 <hr>
 
 What every Cub sold (Alphabetical by first name)
 
-{%- include cubtotals_inorder.html -%}
+{%- include cubtotals_inorder2021.html -%}
