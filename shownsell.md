@@ -40,10 +40,10 @@ All Signup Genius links for October/November 2022.
   - <s>Dollar General [Sun Oct 30th]</s>
   - <s>Pruetts [Sun Oct 30th]</s>
 - Signup for Fourth Weekend
-  - Dollar General [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311613)
-  - Pruetts [Sat Nov 5th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311614)
-  - Dollar General [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-311615)
-  - Pruetts [Sun Nov 6th](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-31161)
+  - <s>Dollar General [Sat Nov 5th]</s>
+  - <S>Pruetts [Sat Nov 5th]</s>
+  - Dollar General [Sun Nov 6th] - Cancelled no pies to sell!
+  - Pruetts [Sun Nov 6th] - Cancelled no pies to sell!
 
 
 

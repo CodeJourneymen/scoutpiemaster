@@ -4,15 +4,15 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-The fundraiser is about to start for 2022. You can start selling as soon as you get your form.<br/>
-You should take the money and the address of the buyer, then we will fullfil the order later (Nov 5th).
-{: .notice--success }
+The fundraiser is over for 2022. No more selling Door to Door pleaise.
+{: .notice--warning }
 
 
-These order sheets must be turned in on Tuesday October 25th.<br/>
-We will then order more pies to fullfill these orders.<br/>
 Pies will be available to deliver on the 5th November onwards.
 {: .notice--success }
+
+2022 - If your door to door order hasn't been picked up yet, I'm getting more moon pies to fulfill it. I'll text you when it is ready.
+{: .notice--warning }
 
 - Cubs should wear their uniform.
 - <b>Take the payment right away.</b> <---- <b>THIS</b>
