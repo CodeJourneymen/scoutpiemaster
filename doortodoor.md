@@ -5,14 +5,14 @@ permalink: /doortodoor/
 ---
 
 The fundraiser is over for 2022. No more selling Door to Door pleaise.
-{: .notice--warning }
+{: .notice-info }
 
 
 Pies will be available to deliver on the 5th November onwards.
 {: .notice--success }
 
 2022 - If your door to door order hasn't been picked up yet, I'm getting more moon pies to fulfill it. I'll text you when it is ready.
-{: .notice--warning }
+{: .notice--info }
 
 - Cubs should wear their uniform.
 - <b>Take the payment right away.</b> <---- <b>THIS</b>
