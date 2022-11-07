@@ -5,7 +5,7 @@ permalink: /doortodoor/
 ---
 
 The fundraiser is over for 2022. No more selling Door to Door pleaise.
-{: .notice-info }
+{: .notice--info }
 
 
 Pies will be available to deliver on the 5th November onwards.
