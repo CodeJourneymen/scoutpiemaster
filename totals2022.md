@@ -16,3 +16,8 @@ What every Cub sold (Sales total ordered)
 
 {%- include cubtotals2022.html -%}
 
+<hr>
+
+What every Cub sold (Alphabetical by first name)
+
+{%- include cubtotals_inorder2022.html -%}
