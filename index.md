@@ -15,10 +15,10 @@ permalink: /
 
 ## Sales goal 
 Sales goal per Cub Scout is $475.<br/>
-If you make the goal of $475, there are no fees for your Cub Scout in 2022/2023.<br/>
+If you make the goal of $475, there are no fees for your Cub Scout in 2023/2024.<br/>
 If you don't make $475, then the Cub Scout fees will be pro-rated.
 
-The fundraiser is about to start for 2022 - Sat October 15th will be the first [Show-n-Sell](/shownsell) you can sign up for.<br/>
+The fundraiser is about to start for 2023 [Show-n-Sell](/shownsell)<br/>
 {: .notice--success }
 
 ## For info on Show-n-Sell Sales
@@ -27,11 +27,11 @@ The fundraiser is about to start for 2022 - Sat October 15th will be the first [
 ## For info on Door to Door Sales
 [Door to Door sales](/doortodoor)
 
-![Image of moonpie prices](/images/MoonPieChart2022.png){: .center-image }
+![Image of moonpie prices](/images/prices-2023.png){: .center-image }
 
 ## Prizes your Cub can earn
 
-![Image1 of moonpie prizes](/images/2022-prizes1.png){: .center-image }
+![Image1 of moonpie prizes](/images/2023-prizes1.png){: .center-image }
 <br/>
-![Image2 of moonpie prizes](/images/2022-prizes2.png){: .center-image }
+![Image2 of moonpie prizes](/images/2023-prizes2.png){: .center-image }
 
