@@ -18,7 +18,7 @@ Sales goal per Cub Scout is $475.<br/>
 If you make the goal of $475, there are no fees for your Cub Scout in 2023/2024.<br/>
 If you don't make $475, then the Cub Scout fees will be pro-rated.
 
-The fundraiser is about to start for 2023 [Show-n-Sell](/shownsell)<br/>
+The fundraiser will start Sept 23rd and be running until 22nd October 2023 [Show-n-Sell](/shownsell)<br/>
 {: .notice--success }
 
 ## For info on Show-n-Sell Sales
