@@ -25,10 +25,10 @@ Slots are 2 hours long.
 
 All Signup Genius links for September/October 2023.
 - Signup for First Weekend Sat 23rd September & Sunday 24th September
-  - [Sat Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)
-  - [Sat Dollar General]([(https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar#)
-  - [Sun Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)
-  - [Sun Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)
+  - [Saturday Sept 23rd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)
+  - [Saturday Sept 23rd -  Dollar General]([https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar#)
+  - [Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)
+  - [Sunday Sept 24th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)
 - Signup for Second Weekend
   - dates to come soon.
 - Signup for Third Weekend
