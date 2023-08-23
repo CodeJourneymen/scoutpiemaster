@@ -55,6 +55,7 @@ What you need will all be together in my garage - pick up the pile of stuff for 
 <br/>
 I should be there most times.
 
+{: .notice--success }
 You will need space to pick everyting up in your car/van/truck.
 I suggest, at a minimum, an empty trunk. 
 You will need to empty somethings out of your car - I know you have kids :)
