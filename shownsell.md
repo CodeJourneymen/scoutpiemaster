@@ -64,7 +64,7 @@ There will be a tally sheet for each type of box sold, we just want to keep trac
 Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Lee](tel:4044051194) - they are charged via USB.
 
 # Pickup/Setup
-Come to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194(tel:4044051194).
+Come to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194).
 
 What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
 <br/>
@@ -83,7 +83,7 @@ You will have to pick up :
 - Signs
 
 # Dropoff
-Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194(tel:4044051194)..
+Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194)..
 If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
 <br/>
 I should be there most times.
