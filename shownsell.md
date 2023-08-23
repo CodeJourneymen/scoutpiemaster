@@ -83,7 +83,7 @@ You will have to pick up :
 - Signs
 
 # Dropoff
-Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194)..
+Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194).
 If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
 <br/>
 I should be there most times.
