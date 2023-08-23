@@ -71,9 +71,9 @@ What you need will all be together in my garage - pick up the pile of stuff for 
 I should be there most times.
 
 {: .notice--success }
-You will need space to pick everyting up in your car/van/truck.
-I suggest, at a minimum, an empty trunk. 
-You will need to empty somethings out of your car - I know you have kids :)
+You will need space to pick everyting up in your car/van/truck.>br/>
+I suggest, at a minimum, an empty trunk. <br/>
+You may need to empty something out of your car to make space - I know you have kids :)
 
 You will have to pick up : 
 - Moon pies (many boxes)
