@@ -23,7 +23,7 @@ Slots are 2 hours long.
 
 ### Each day and location has a seperate SignupGenius.
 
-All Signup Genius links for October/November 2023.
+All Signup Genius links for September/October 2023.
 - Signup for First Weekend
   - dates to come soon.
 - Signup for Second Weekend
@@ -31,6 +31,8 @@ All Signup Genius links for October/November 2023.
 - Signup for Third Weekend
   - dates to come soon.
 - Signup for Fourth Weekend
+  - dates to come soon.
+- Signup for Fifth Weekend
   - dates to come soon.
 
 
