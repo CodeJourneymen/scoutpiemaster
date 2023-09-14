@@ -14,7 +14,7 @@ We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+Gene
 We have [Ace Hardware](https://www.google.com/maps/place/Elder's+Ace+Hardware-+Walden/@35.1546421,-85.319739,17z/data=!3m1!4b1!4m6!3m5!1s0x8860f5a6f5c443f7:0x1c7c9b0e2a8c4c0!8m2!3d35.1546421!4d-85.3171587!16s%2Fg%2F1tdwl729?entry=ttu) as a location too - once per month. <br/>
 This will be a 3rd location for those weekends.
 
-### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
+### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location. Plus 4 more signups for the two extra Ace weekends.
 
 It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.<br/>
 If not all slots are filled on a day we'd prefer the last slot to be empty, so the stall doesn't have to be broken down and re-put up in a single day.<br/>
