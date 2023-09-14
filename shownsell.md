@@ -11,6 +11,9 @@ The fundraiser will start Sept 23rd and be running until 22nd October 2023.
 
 We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruetts Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
 
+We have [Ace Hardware](https://www.google.com/maps/place/Elder's+Ace+Hardware-+Walden/@35.1546421,-85.319739,17z/data=!3m1!4b1!4m6!3m5!1s0x8860f5a6f5c443f7:0x1c7c9b0e2a8c4c0!8m2!3d35.1546421!4d-85.3171587!16s%2Fg%2F1tdwl729?entry=ttu) as a location too - once per month. <br/>
+This will be a 3rd location for those weekends.
+
 ### There are 4 selling slots per location  - so we need 8 signups each day - 4 for each location.
 
 It's possible for 2 cub families to be selling in one location at the same time - and share a slot, but please fill out the day before doubling up.<br/>
@@ -27,8 +30,10 @@ All Signup Genius links for September/October 2023.
 - Signup for First Weekend - Sat 23rd September & Sunday 24th September
   - [Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)
   - [Saturday Sept 23rd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)
+  - [Saturday Sept 23rd - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322798-satsept#/)
   - [Sunday Sept 24th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)
   - [Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)
+  - [Sunday Sept 24th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322954-sunsept#/)
 - Signup for Second Weekend - Sat 30th September &  Sunday 1st October
   - [Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)
   - [Saturday Sept 30th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept2)
@@ -42,8 +47,10 @@ All Signup Genius links for September/October 2023.
 - Signup for Fourth Weekend
   - [Saturday Oct 14th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct6)
   - [Saturday Oct 14th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct7)
+  - [Saturday Oct 14th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44323096-satoct#/)
   - [Sunday Oct 15th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct10)
   - [Sunday Oct 15th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct11)
+  - [Sunday Oct 15th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44323198-sunoct#/)
 - Signup for Fifth Weekend
   - [Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)
   - [Saturday Oct 21st - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct9)
