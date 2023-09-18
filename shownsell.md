@@ -30,7 +30,6 @@ All Signup Genius links for September/October 2023.
 - Signup for First Weekend - Sat 23rd September & Sunday 24th September
   - [Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)
   - [Saturday Sept 23rd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)
-  - [Saturday Sept 23rd - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322798-satsept#/)
   - [Sunday Sept 24th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)
   - [Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)
   - [Sunday Sept 24th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322954-sunsept#/)
