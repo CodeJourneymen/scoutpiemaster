@@ -60,8 +60,8 @@ All Signup Genius links for September/October 2023.
 
 # Selling:
 You will need to download the "Clover Go G1 - Point Of Sale" from android or apple app store onto your phone. (NOT the Clover G2 dashboard)
-- [Clover for Android](https://play.google.com/store/apps/details?id=com.firstdata.clovergo&hl=en_US&gl=US)
-- [Clover for Apple](https://apps.apple.com/us/app/clover-go-g1-point-of-sale/id999050522)
+- [Clover for Android](https://play.google.com/store/apps/details?id=clover.companion.app&hl=en_US&gl=US)
+- [Clover for Apple](https://apps.apple.com/us/app/clover-go-dashboard-pos/id969311778)
 
 We will supply login/password for each location. Each location has it's own username/password - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
