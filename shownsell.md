@@ -63,18 +63,16 @@ You will need to download the "Clover Go G1 - Point Of Sale" from android or app
 - [Clover for Android](https://play.google.com/store/apps/details?id=clover.companion.app&hl=en_US&gl=US)
 - [Clover for Apple](https://apps.apple.com/us/app/clover-go-dashboard-pos/id969311778)
 
-We will supply login/password for each location. Each location has it's own username/password - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
+We will supply login/password for each location. **Each location has it's own username/password** - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
-There will be a tally sheet for each type of box sold, we just want to keep track of what we sold on paper too. It will be in the box.
-
-Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Lee](tel:4044051194) - they are charged via USB.
+Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Lee](tel:4044051194) or [Sean 202-246-4633](tel:2022464633) - they are charged via USB.
 
 # Pickup/Setup
 Come to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194) or [Sean 202-246-4633](tel:2022464633)
 
-What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
+What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. 
 <br/>
-I should be there most times.
+**Please text/call when you are on your way to pick up.**
 
 {: .notice--success }
 You will need space to pick everyting up in your car/van/truck.<br/>
@@ -90,10 +88,9 @@ You will have to pick up :
 
 # Dropoff
 Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194) , or [Sean 202-246-4633](tel:2022464633)
-If I'm not there Garage code will have been sent in an email or text to you. - please also close door with same code after you are done. 
 <br/>
-I should be there most times.
-
+**Please text/call when you are on your way to drop off.**
+<br/>
 You will have to drop off: 
 - Moon pies (whatever is left)
 - Table 
