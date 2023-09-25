@@ -28,11 +28,11 @@ Slots are 2 hours long.
 
 All Signup Genius links for September/October 2023.
 - Signup for First Weekend - Sat 23rd September & Sunday 24th September
-  - [Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)
-  - [Saturday Sept 23rd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)
-  - [Sunday Sept 24th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)
-  - [Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)
-  - [Sunday Sept 24th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322954-sunsept#/)
+  - ~~[Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)~~
+  - ~~[Saturday Sept 23rd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept)~~
+  - ~~[Sunday Sept 24th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept)~~
+  - ~~[Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)~~
+  - ~~[Sunday Sept 24th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322954-sunsept#/)~~
 - Signup for Second Weekend - Sat 30th September &  Sunday 1st October
   - [Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)
   - [Saturday Sept 30th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept2)
@@ -59,7 +59,7 @@ All Signup Genius links for September/October 2023.
 
 
 # Selling:
-You will need to download the "Clover Go G1 - Point Of Sale" from android or apple app store onto your phone. (NOT the Clover G2 dashboard)
+You will need to download the "Clover Go - Dashboard & POS" from Android or Apple app store onto your phone.
 - [Clover for Android](https://play.google.com/store/apps/details?id=clover.companion.app&hl=en_US&gl=US)
 - [Clover for Apple](https://apps.apple.com/us/app/clover-go-dashboard-pos/id969311778)
 
