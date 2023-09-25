@@ -23,10 +23,10 @@ The fundraiser will start Sept 23rd and be running until 22nd October 2023.
     - Venmo
 
 
-> [!IMPORTANT]  
-> The order form is due **Thursday 19th October**. No selling beyond that please. Email Lee lee@codejourneymen.com the form.
-> The order will be ready to pick up and eliver to your customers from **November 3rd**.
-> Bring the money to pay for the order at pickup.
+{: .notice--info }
+The order form is due **Thursday 19th October**. No selling beyond that please. Email Lee lee@codejourneymen.com the form.<br/>
+The order will be ready to pick up and eliver to your customers from **November 3rd**.<br/>
+Bring the money to pay for the order at pickup.<br/>
 
 
 ### Door to Door wagon sales
