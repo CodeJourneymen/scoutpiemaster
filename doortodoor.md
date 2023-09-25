@@ -15,7 +15,7 @@ The fundraiser will start Sept 23rd and be running until 22nd October 2023.
     - This is how we track their sales. 
     - **DONT LOSE THE SHEET**.
 - After each session you can text me a photo of the sheet and your current orders.
-- Come to my house to pick up the order (the weekend of 5th Nov). Payment is due to me at the moment you pick up your Moon Pies.
+- Come to my house to pick up the order (the weekend of 3rd Nov). Payment is due to me at the moment you pick up your Moon Pies.
 - Checks are acceptable made out to **"Pack 3116"**
 - You can accept Venmo to your personal account (as a way of taking credit cards) then settle up via
     - Cash
@@ -24,8 +24,8 @@ The fundraiser will start Sept 23rd and be running until 22nd October 2023.
 
 
 > [!IMPORTANT]
-> The order form is due **Thursday 19th October**. No selling beyond that please. Email Lee lee@codejourneymen.com the form.<br/>
-> The order will be ready to pick up and eliver to your customers from **November 3rd**.<br/>
+> The order form is due **Thursday 19th October**. No selling beyond that please. Email [Lee](lee@codejourneymen.com) the form.<br/>
+> The order will be ready to pick up and deliver to your customers from **November 3rd**.<br/>
 > Bring the money to pay for the order at pickup.<br/>
 
 
