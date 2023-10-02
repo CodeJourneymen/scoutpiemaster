@@ -34,10 +34,10 @@ All Signup Genius links for September/October 2023.
   - ~~[Sunday Sept 24th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-sunsept1)~~
   - ~~[Sunday Sept 24th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44322954-sunsept#/)~~
 - Signup for Second Weekend - Sat 30th September &  Sunday 1st October
-  - ~~[Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)
-  - ~~[Saturday Sept 30th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept2)
-  - ~~[Sunday Oct 1st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct)
-  - ~~[Sunday Oct 1st - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct1)
+  - ~~[Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)~~
+  - ~~[Saturday Sept 30th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept2)~~
+  - ~~[Sunday Oct 1st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct)~~
+  - ~~[Sunday Oct 1st - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct1)~~
 - Signup for Third Weekend - Sat 7th October, Sun 8th October
   - [Saturday Oct 7th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct2)
   - [Saturday Oct 7th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct3)
