@@ -6,7 +6,7 @@ permalink: /shownsell/
 
 ## 2 locations
 
-The fundraiser will start Sept 23rd and be running until 22nd October 2023.
+The fundraiser is over for 2023. We'll be back in 2024.
 {: .notice--success }
 
 We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) and [Pruetts Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
@@ -51,10 +51,10 @@ All Signup Genius links for September/October 2023.
   - ~~[Sunday Oct 15th - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct11)~~
   - ~~[Sunday Oct 15th - Ace Hardware](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-44323198-sunoct#/)~~
 - Signup for Fifth Weekend - Sat 21st October, Sun 22nd October
-  - [Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)
-  - [Saturday Oct 21st - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct9)
-  - [Sunday Oct 22nd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct12)
-  - [Sunday Oct 22nd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct13)
+  - ~~[Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)~~
+  - ~~[Saturday Oct 21st - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct9)~~
+  - ~~[Sunday Oct 22nd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct12)~~
+  - ~~[Sunday Oct 22nd - Pruetts](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct13)~~
 
 
 
