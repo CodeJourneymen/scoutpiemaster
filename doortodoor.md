@@ -4,8 +4,8 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-> [!NOTE] 
-> The fundraiser will **start Sept 23rd** and be running **until 19th October 2023**.
+The fundraiser is over for 2023. We'll be back in 2024.<br/>
+{: .notice--success }
 
 
 
