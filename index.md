@@ -30,11 +30,11 @@ The fundraiser is over for 2023. We'll be back in 2024.<br/>
 ## For info on Door to Door Sales
 [Door to Door sales](/doortodoor)
 
-![Image of moonpie prices](/images/prices-2023.png){: .center-image }
+![Image of moonpie prices](/images/prices_2024.png){: .center-image }
 
 ## Prizes your Cub can earn
 
-![Image1 of moonpie prizes](/images/2023-prizes1.png){: .center-image }
+![Image1 of moonpie prizes](/images/2024-prizes1.png){: .center-image }
 <br/>
-![Image2 of moonpie prizes](/images/2023-prizes2.png){: .center-image }
+![Image2 of moonpie prizes](/images/2024-prizes2.png){: .center-image }
 
