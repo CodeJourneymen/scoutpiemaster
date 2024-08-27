@@ -18,7 +18,7 @@ Sales goal per Cub Scout is $475.<br/>
 If you make the goal of $475, there are no fees for your Cub Scout in 2024/2025.<br/>
 If you don't make $475, then the Cub Scout fees will be pro-rated.
 
-Total fees for 2024 are $192. $100 to the pack, $80 to National and $12 to Council.
+Total fees for 2024 are $197. $100 to the pack, $85 to National and $12 to Council.
 {: .notice--success }
 
 The fundraiser is about to start for 2024.<br/>
