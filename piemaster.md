@@ -7,8 +7,12 @@ permalink: /piemaster/
 The Piemaster contact details are
 
 Timothy Fuller
-[Email Tim] (mailto:timothypfuller@gmail.com) timothypfuller@gmail.com
-[Call Tim] (phone:909-263-8247) 909-263-8247 mobile
+<p>
+  <a href="mailto:timothypfuller@gmail.com">Email Tim the PieMaster</a> for more details.
+  <br/>
+  <a href="tel:9092638247">Call PieMaster Tim</a> for help.
+</p>
+
 965 Ladder Trail
 Signal Mountain
 
