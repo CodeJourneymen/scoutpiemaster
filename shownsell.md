@@ -34,16 +34,16 @@ All Signup Genius links for September/October 2024.
 - Signup for Third Weekend - Sat 28th September, Sun 29th September 2024
   - ~~[Saturday Oct 7th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct2)~~
   
-  Signup for Fourth Weekend - Sat 5th October, Sun 6th October 2024
+- Signup for Fourth Weekend - Sat 5th October, Sun 6th October 2024
   - ~~[Saturday Oct 14th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct6)~~
   
-  Signup for Fifth Weekend - Sat 12th October, Sun 13th October 2024
+ - Signup for Fifth Weekend - Sat 12th October, Sun 13th October 2024
   - ~~[Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)~~
 
-  Signup for Sixth Weekend - Sat 19th October, Sun 20th October 2024
+- Signup for Sixth Weekend - Sat 19th October, Sun 20th October 2024
   - ~~[Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)~~
 
-Signup for Seventh Weekend - Sat 26th October, Sun 27th October 2024
+- Signup for Seventh Weekend - Sat 26th October, Sun 27th October 2024
   - ~~[Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)~~
 
     
@@ -56,10 +56,10 @@ You will need to download the "Clover Go - Dashboard & POS" from Android or Appl
 
 We will supply login/password for each location. **Each location has it's own username/password** - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
-Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Lee](tel:4044051194) or [Sean 202-246-4633](tel:2022464633) - they are charged via USB.
+Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:9092638247) - they are charged via USB.
 
 # Pickup/Setup
-Come to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194) or [Sean 202-246-4633](tel:2022464633)
+Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 909-263-8247](tel:9092638247) 
 
 What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. 
 <br/>
@@ -78,7 +78,7 @@ You will have to pick up :
 - Signs
 
 # Dropoff
-Bring everything to my house, Lee Walker, 712 Windy way, [Lee 404-405-1194](tel:4044051194) , or [Sean 202-246-4633](tel:2022464633)
+Bring everything to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 909-263-8247](tel:9092638247) 
 <br/>
 **Please text/call when you are on your way to drop off.**
 <br/>
