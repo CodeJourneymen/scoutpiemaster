@@ -15,7 +15,7 @@ The fundraiser is about to start 2024.<br/>
     - This is how we track their sales. 
     - **DONT LOSE THE SHEET**.
 - After each session you can text me a photo of the sheet and your current orders.
-- Come to my house to pick up the order (the weekend of 3rd Nov). Payment is due to me at the moment you pick up your Moon Pies.
+- Come to my house to pick up the order (the weekend of 8th Nov 2024). Payment is due to me at the moment you pick up your Moon Pies.
 - Checks are acceptable made out to **"Pack 3116"**
 - You can accept Venmo to your personal account (as a way of taking credit cards) then settle up via
     - Cash
@@ -24,8 +24,8 @@ The fundraiser is about to start 2024.<br/>
 
 
 > [!IMPORTANT]
-> The order form is due **Thursday 19th October**. No selling beyond that please. Contact the [Piemaster](lee@codejourneymen.com) the form.<br/>
-> The order will be ready to pick up and deliver to your customers from **November 3rd**.<br/>
+> The order form is due **Thursday 17th October 2024**. No selling beyond that please. Contact the [Piemaster](/piemaster) the form.<br/>
+> The order will be ready to pick up and deliver to your customers from **November 8th 2024**.<br/>
 > Bring the money to pay for the order at pickup.<br/>
 
 
