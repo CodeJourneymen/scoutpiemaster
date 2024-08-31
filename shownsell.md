@@ -9,8 +9,8 @@ permalink: /shownsell/
 The fundraiser is about to start for 2024. 
 {: .notice--success }
 
-We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) 
-[Pruetts Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461)
+We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) , 
+[Pruetts Market](https://www.google.com/maps/place/Pruett's+Market/@35.1386309,-85.330655,17z/data=!3m1!4b1!4m5!3m4!1s0x8860f5919d29f255:0x510723ddf790f66a!8m2!3d35.1386309!4d-85.328461) , 
 [Food City](https://maps.app.goo.gl/AgoqyxFr9Rq8iB4Z9) and 
 [Ace Hardware](https://maps.app.goo.gl/ppy6E4F8XSrnRCrD9)
 
@@ -30,7 +30,7 @@ Slots are 2 hours long.
 All Signup Genius links for September/October 2024.
 - Signup for First Weekend - Sat 28th September & Sunday 29th September 2024
   - ~~[Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)~~
-  - [Saturday Sept 28 - Pruett's]https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063085-moon#/
+  - [Saturday Sept 28 - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063085-moon#/)
 
 - Signup for Second Weekend - Sat 5th October &  Sunday 6th October 2024
   - ~~[Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)~~
