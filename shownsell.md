@@ -29,8 +29,8 @@ Slots are 2 hours long.
 
 All Signup Genius links for September/October 2024.
 - Signup for First Weekend - Sat 28th September & Sunday 29th September 2024
-  - ~~[Saturday Sept 23rd -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-dollar)~~
   - [Saturday Sept 28 - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063085-moon#/)
+  - [Saturday Sept 28 - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063735-dollar)
 
 - Signup for Second Weekend - Sat 5th October &  Sunday 6th October 2024
   - ~~[Saturday Sept 30th -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satsept1)~~
