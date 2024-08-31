@@ -55,7 +55,6 @@ All Signup Genius links for September/October 2024.
   - [Sunday Oct 20th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064588-dollar)
   
 - Signup for Fifth Weekend - Sat 26th October, Sun 27th October 2024
-  - ~~[Saturday Oct 21st -  Dollar General](https://www.signupgenius.com/go/5080C4BAFAA29A2FA7-satoct8)~~
   - [Saturday Oct 26th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064627-pruetts)
   - [Saturday Oct 26 - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064650-dollar)
   - [Sunday Oct 27 - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064651-pruetts)
