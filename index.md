@@ -30,6 +30,10 @@ The fundraiser is about to start for 2024.<br/>
 ## For info on Door to Door Sales
 [Door to Door sales](/doortodoor)
 
+## Online link for Donations towards Military Sales
+Please make sure the Scouts full name is provided at checkout to be sure the amount is credited towards their goal. 
+[https://www.paypal.com/donate/?hosted_button_id=TN68TTSEGJGU2]
+
 ![Image of moonpie prices](/images/prices_2024.png){: .center-image }
 
 ## Prizes your Cub can earn
