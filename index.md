@@ -32,6 +32,7 @@ The fundraiser is about to start for 2024.<br/>
 
 ## Online link for Donations towards Military Sales 
 [Donation Link](https://www.paypal.com/donate/?hosted_button_id=TN68TTSEGJGU2)
+
 Please make sure the Scouts full name is provided at checkout to be sure the amount is credited towards their goal.
 
 ![Image of moonpie prices](/images/prices_2024.png){: .center-image }
