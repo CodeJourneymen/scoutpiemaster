@@ -65,9 +65,9 @@ All Signup Genius links for September/October 2024.
 
 
 # Selling:
-You will need to download the "Clover Go - Dashboard & POS" from Android or Apple app store onto your phone.
-- [Clover for Android](https://play.google.com/store/apps/details?id=clover.companion.app&hl=en_US&gl=US)
-- [Clover for Apple](https://apps.apple.com/us/app/clover-go-dashboard-pos/id969311778)
+You will need to download the "Square Point of Sale - Payment" from Android or Apple app store onto your phone.
+- [Square App for Android](https://play.google.com/store/search?q=square+app&c=apps)
+- [Square App for Apple](https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788)
 
 We will supply login/password for each location. **Each location has it's own username/password** - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
