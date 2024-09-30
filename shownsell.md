@@ -29,10 +29,10 @@ Slots are 2 hours long.
 
 All Signup Genius links for September/October 2024.
 ~~- Signup for First Weekend - Sat 28th September & Sunday 29th September 2024
-~~  - [Saturday Sept 28th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063085-moon#/)
-~~  - [Saturday Sept 28th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063735-dollar)
-~~  - [Sunday Sept 29th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063946-pruetts)
-~~  - [Sunday Sept 29th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063996-dollar)
+~~- [Saturday Sept 28th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063085-moon#/)
+~~- [Saturday Sept 28th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063735-dollar)
+~~- [Sunday Sept 29th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063946-pruetts)
+~~- [Sunday Sept 29th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063996-dollar)
 
 - Signup for Second Weekend - Sat 5th October &  Sunday 6th October 2024
   - [Saturday Oct 5th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064031-pruetts)
