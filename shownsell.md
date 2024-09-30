@@ -71,7 +71,7 @@ You will need to download the "Square Point of Sale - Payment" from Android or A
 
 We will supply login/password for each location. **Each location has it's own username/password** - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
-Clover is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:4235957886) - they are charged via USB.
+Square is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:4235957886) - they are charged via USB.
 
 # Pickup/Setup
 Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-595-7886](tel:4235957886) 
