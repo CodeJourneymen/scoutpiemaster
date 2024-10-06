@@ -4,7 +4,7 @@ title: Show-n-Sell
 permalink: /shownsell/
 ---
 
-## 2 locations
+## 4 locations
 
 The fundraiser has started for 2024. 
 {: .notice--success }
@@ -35,9 +35,9 @@ All Signup Genius links for September/October 2024.
   - ~~[Sunday Sept 29th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51063996-dollar)~~
 
 - Signup for Second Weekend - Sat 5th October &  Sunday 6th October 2024
-  - [Saturday Oct 5th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064031-pruetts)
-  - [Saturday Oct 5th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064118-dollar)
-  - [Saturday Oct 5th - Food City](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064129-food)
+  - ~~[Saturday Oct 5th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064031-pruetts)~~
+  - ~~[Saturday Oct 5th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064118-dollar)~~
+  - ~~[Saturday Oct 5th - Food City](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064129-food)~~
   - [Sunday Oct 6th - Pruett's](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064224-pruetts)
   - [Sunday Oct 6th - Dollar General](https://www.signupgenius.com/go/10C0A4CA9A628A2FEC43-51064250-dollar)
 
