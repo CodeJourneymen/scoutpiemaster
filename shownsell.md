@@ -6,7 +6,7 @@ permalink: /shownsell/
 
 ## 4 locations
 
-The fundraiser has started for 2024. 
+The fundraiser has ended for 2024. 
 {: .notice--success }
 
 We are selling at [Dollar General](https://www.google.com/maps/place/Dollar+General/@35.1744822,-85.3314633,17z/data=!3m2!4b1!5s0x8860f449559ad427:0xd12cea5ca04fd5cf!4m5!3m4!1s0x8860f44bffddafb7:0x14737cbbf3090bd2!8m2!3d35.1744822!4d-85.3292746) , 
