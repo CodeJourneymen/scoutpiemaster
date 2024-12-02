@@ -4,7 +4,7 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-The fundraiser has started for 2024.<br/>
+The fundraiser has ended for 2024.<br/>
 {: .notice--success }
 
 
