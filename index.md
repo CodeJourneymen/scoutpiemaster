@@ -21,7 +21,7 @@ If you don't make $400, then the Cub Scout pack fees will be pro-rated.
 Total fees for 2024 are $225. $100 to the pack, $85 to National and $40 to Council.
 {: .notice--success }
 
-The fundraiser has started for 2024.<br/>
+The fundraiser has ended for 2024.<br/>
 {: .notice--success }
 
 ## For info on Show-n-Sell Sales
