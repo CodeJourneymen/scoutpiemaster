@@ -15,13 +15,13 @@ permalink: /
 
 ## Sales goal 
 Sales goal per Cub Scout is $400.<br/>
-If you make the goal of $400, there are no pack fees for your Cub Scout in 2024/2025.<br/>
+If you make the goal of $400, there are no pack fees for your Cub Scout in 2025/2026.<br/>
 If you don't make $400, then the Cub Scout pack fees will be pro-rated.
 
-Total fees for 2024 are $225. $100 to the pack, $85 to National and $40 to Council.
+Total fees for 2025 are $225. $100 to the pack, $85 to National and $40 to Council.
 {: .notice--success }
 
-The fundraiser has ended for 2024.<br/>
+The fundraiser is beginning for 2025.<br/>
 {: .notice--success }
 
 ## For info on Show-n-Sell Sales
