@@ -8,7 +8,7 @@ The Piemaster contact details are
 
 Timothy Fuller
 <p>
-  <a href="mailto:timothypfuller@gmail.com">Email Tim the PieMaster</a> for more details.
+  <a href="mailto:3116moonpiemaster@gmail.com">Email Tim the PieMaster</a> for more details.
   <br/>
   <a href="tel:4235957886">Call PieMaster Tim</a> for help.
   <br/>
