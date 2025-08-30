@@ -4,7 +4,7 @@ title: Door to Door sales
 permalink: /doortodoor/
 ---
 
-The fundraiser has ended for 2024.<br/>
+The fundraiser is beginning for 2025.<br/>
 {: .notice--success }
 
 
@@ -24,8 +24,8 @@ The fundraiser has ended for 2024.<br/>
 
 
 > [!IMPORTANT]
-> The order form is due **Thursday 17th October 2024**. No selling beyond that please. Contact the [Piemaster](/piemaster) the form.<br/>
-> The order will be ready to pick up and deliver to your customers from **November 8th 2024**.<br/>
+> The order form is due **Sunday October 19th 2025**. No selling beyond that please. Contact the [Piemaster](/piemaster) with the completed form.<br/>
+> The order will be ready to pick up and deliver to your customers from **November 9th 2025**.<br/>
 > Bring the money to pay for the order at pickup.<br/>
 
 
