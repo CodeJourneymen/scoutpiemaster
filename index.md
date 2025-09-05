@@ -35,7 +35,7 @@ The fundraiser is beginning for 2025.<br/>
 
 Please make sure the Scouts full name is provided at checkout to be sure the amount is credited towards their goal.
 
-![Image of moonpie prices](/images/prices_2024.png){: .center-image }
+![Image of moonpie prices](/images/2025+MoonPie+Order+Form-1.png){: .center-image }
 
 ## Prizes your Cub can earn
 
