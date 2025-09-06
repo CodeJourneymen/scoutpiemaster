@@ -14,8 +14,8 @@ The fundraiser is beginning for 2025.<br/>
 - Write the clients name, address, & order down on your Cubs selling sheet. 
     - This is how we track their sales. 
     - **DONT LOSE THE SHEET**.
-- After you have completed all your sales, you can text or email me your order form. The form is due no later than October 17 2024.
-- Come to my house to pick up the order (the weekend of 8th Nov 2024). Payment is due to me at the moment you pick up your Moon Pies.
+- After you have completed all your sales, you can text or email me your order form. The form is due no later than October 19 2025.
+- Come to my house to pick up the order (the weekend of Nov 9th 2025). Payment is due to me at the moment you pick up your Moon Pies.
 - Checks are acceptable made out to **"Pack 3116"**
 - You can accept Venmo to your personal account (as a way of taking credit cards) then settle up via
     - Cash
