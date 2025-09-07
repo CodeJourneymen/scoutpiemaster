@@ -4,6 +4,9 @@ title: Show-n-Sell
 permalink: /shownsell/
 ---
 
+Shoot for the Moon patch and lookout game - must register by September 12, 2025
+(https://docs.google.com/forms/d/e/1FAIpQLSfzmFmZRDz72FkextxX644eCrbFzbJzrq3MZG_LIlF0ksoodA/viewform)
+
 ## 4 locations
 
 The fundraiser is beginning for 2025. 
