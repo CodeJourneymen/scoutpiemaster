@@ -72,7 +72,7 @@ We will supply login/password for each location. **Each location has it's own us
 Square is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:4234630432) - they are charged via USB.
 
 # Pickup/Setup
-Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-463-0432](tel:4234630432) 
+Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-595-7886](tel:4235957886) 
 
 What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. 
 <br/>
@@ -91,7 +91,7 @@ You will have to pick up :
 - Signs
 
 # Dropoff
-Bring everything to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-463-0432](tel:4234630432) 
+Bring everything to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-595-7886](tel:4235957886) 
 <br/>
 **Please text/call when you are on your way to drop off.**
 <br/>
