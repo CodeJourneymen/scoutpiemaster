@@ -6,7 +6,7 @@ permalink: /shownsell/
 
 [Shoot for the Moon patch](https://docs.google.com/forms/d/e/1FAIpQLSfzmFmZRDz72FkextxX644eCrbFzbJzrq3MZG_LIlF0ksoodA/viewform) and lookout game - must register by September 12, 2025
 
-## 4 locations
+## 2 locations
 
 The fundraiser is beginning for 2025. 
 {: .notice--success }
@@ -53,10 +53,10 @@ All Signup Genius links for September/October 2025.
   - [Sunday Oct 12th - Dollar General](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283361-moonpie)
   
 - Signup for Fifth Weekend - Saturday October 18th & Sunday October 19th 2025
-  - [Saturday Oct 26th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283351-moonpie)
-  - [Saturday Oct 26 - Dollar General](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283365-moonpie)
-  - [Sunday Oct 27 - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283350-moonpie)
-  - [Sunday Oct 27 - Dollar General](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283366-moonpie)
+  - [Saturday Oct 18th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283351-moonpie)
+  - [Saturday Oct 18th - Dollar General](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283365-moonpie)
+  - [Sunday Oct 19th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283350-moonpie)
+  - [Sunday Oct 19th - Dollar General](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-58283366-moonpie)
 
 
     
@@ -69,10 +69,10 @@ You will need to download the "Square Point of Sale - Payment" from Android or A
 
 We will supply login/password for each location. **Each location has it's own username/password** - please make sure you use the right one (if you have sold in both locations you could accidentally use the wrong username/password - so please check.)
 
-Square is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:4234630432) - they are charged via USB.
+Square is really easy to use. The card readers will be fully charged when you pick them up - they should last all day. If not [Call Tim](tel:4234630465) - they are charged via USB.
 
 # Pickup/Setup
-Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-595-7886](tel:4235957886) 
+Come to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-463-0465](tel:4234630465) 
 
 What you need will all be together in my garage - pick up the pile of stuff for the location you are selling at. 
 <br/>
@@ -91,7 +91,7 @@ You will have to pick up :
 - Signs
 
 # Dropoff
-Bring everything to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-595-7886](tel:4235957886) 
+Bring everything to my house, Tim Fuller, 965 Ladder Trail Signal Mountain, [Tim 423-463-0465](tel:4234630465) 
 <br/>
 **Please text/call when you are on your way to drop off.**
 <br/>
