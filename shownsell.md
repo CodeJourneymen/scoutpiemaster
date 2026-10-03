@@ -32,13 +32,11 @@ All Signup Genius links for October/November 2026.
   - [Saturday Oct 3rd - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65831738-moonpie)
   - [Saturday Oct 3rd - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832130-moonpie)
   - [Sunday Oct 4th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832137-moonpie)
-  - [Sunday Oct 4th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832251-moonpie)
 
 - Signup for Second Weekend - Saturday October 10th & Sunday October 11th 2026
   - [Saturday Oct 10th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832259-moonpie)
   - [Saturday Oct 10th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832262-moonpie)
   - [Sunday Oct 11th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832320-moonpie)
-  - [Sunday Oct 11th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832342-moonpie)
 
 - Signup for Third Weekend - Saturday October 17th & Sunday October 18th 2026
   - [Saturday Oct 17th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832378-moonpie)
@@ -50,25 +48,21 @@ All Signup Genius links for October/November 2026.
   - [Saturday Oct 24th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832450-moonpie)
   - [Saturday Oct 24th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832454-moonpie)
   - [Sunday Oct 25th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832470-moonpie)
-  - [Sunday Oct 25th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832475-moonpie)
   
 - Signup for Fifth Weekend - Saturday October 31st & Sunday November 1st 2026
   - [Saturday Oct 31st - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832555-moonpie)
   - [Saturday Oct 31st - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832557-moonpie)
   - [Sunday Nov 1st - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832571-moonpie)
-  - [Sunday Nov 1st - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832575-moonpie)
 
 - Signup for Sixth Weekend - Saturday November 7th & Sunday November 8th 2026
   - [Saturday Nov 7th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832576-moonpie)
   - [Saturday Nov 7th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832593-moonpie)
   - [Sunday Nov 8th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832631-moonpie)
-  - [Sunday Nov 8th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832654-moonpie)
 
 - Signup for Seventh Weekend - Saturday November 14th & Sunday November 15th 2026
   - [Saturday Nov 14th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832655-moonpie)
   - [Saturday Nov 14th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832660-moonpie)
   - [Sunday Nov 15th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832672-moonpie)
-  - [Sunday Nov 15th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832671-moonpie)
     
 
 
