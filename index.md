@@ -38,5 +38,5 @@ Please make sure the Scouts full name is provided at checkout to be sure the amo
 
 ![Image1 of moonpie prizes](images/2026Prize+Sheet-1.png){: .center-image }
 <br/>
-![Image2 of moonpie prizes](images/2025_Cherokee+Area+TN+prize+flyer-1.png){: .center-image }
+![Image2 of moonpie prizes](images/2026Prize+Sheet-2.png){: .center-image }
 
