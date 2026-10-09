@@ -42,7 +42,6 @@ All Signup Genius links for October/November 2026.
   - [Saturday Oct 17th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832378-moonpie)
   - [Saturday Oct 17th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832392-moonpie)
   - [Sunday Oct 18th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832398-moonpie)
-  - [Sunday Oct 18th - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832400-moonpie)
   
 - Signup for Fourth Weekend - Saturday October 24th & Sunday October 25th 2026
   - [Saturday Oct 24th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832450-moonpie)
