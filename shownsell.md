@@ -29,9 +29,9 @@ Slots are 2 hours long.
 
 All Signup Genius links for October/November 2026.
 - Signup for First Weekend - Saturday October 3rd & Sunday October 4th 2026
-  - [Saturday Oct 3rd - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65831738-moonpie)
-  - [Saturday Oct 3rd - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832130-moonpie)
-  - [Sunday Oct 4th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832137-moonpie)
+  - ~[Saturday Oct 3rd - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65831738-moonpie)~
+  - ~[Saturday Oct 3rd - Recycling Center](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832130-moonpie)~
+  - ~[Sunday Oct 4th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832137-moonpie)~
 
 - Signup for Second Weekend - Saturday October 10th & Sunday October 11th 2026
   - [Saturday Oct 10th - Pruett's](https://www.signupgenius.com/go/10C054BABAD2AA3F9C70-65832259-moonpie)
