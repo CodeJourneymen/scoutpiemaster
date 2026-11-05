@@ -4,7 +4,7 @@ title: Cub Sales Totals 2026
 permalink: /totals2024/
 ---
 
-We are about to start fundraising for 2026.<br/>
+The fundraising is over for 2026.<br/>
 {: .notice--success }
 
 All Selling totals will be placed here after the sales are finished.
