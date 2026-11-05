@@ -11,10 +11,11 @@ All Selling totals will be placed here after the sales are finished.
 
 What every Cub sold (Sales total ordered)
 
+What every Cub sold (Alphabetical by first name)
 
-![Image of scout totals](/images/2026_Cub_Totals_-_Google_Sheets_1.jpg)
+![Image of scout totals](/images/2026CubScoutTotals.png)
 
 <hr>
 
-What every Cub sold (Alphabetical by first name)
+
 
